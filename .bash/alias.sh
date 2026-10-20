@@ -53,3 +53,4 @@ git config --global alias.last 'log -1 HEAD'
 
 # NAS
 alias deploy='bash ./deploy.sh'
+alias go='bash ./deploy.sh'
